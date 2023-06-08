@@ -1,0 +1,65 @@
+
+.titulo {
+  border: solid;
+  border-radius:  25px;
+  border-width: 3px;
+  border-color: cadetblue;
+  text-align: center;
+  width: auto;
+  font-size: 30px;
+}
+
+.contenido  {
+
+text-align: center;
+font-size: 30px;
+
+}
+
+.contenido h2 {
+
+font-family: "Gruppo", cursive;
+  border: solid;
+  border-color: black;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+}
+
+.contenido img{
+width: 400px;
+  height: 400px;
+  margin-left: 50px;
+}
+
+nav {
+background-color: red;
+  border: solid;
+  border-color: black;
+  margin-left: auto;
+margin-right: auto;
+  max-width: 1000px;
+  text-align: center;
+}
+
+nav a {
+text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+
+  
+}
+
+nav a:hover {
+background-color: blue;
+
+  
+}
+
+img:hover {
+width: 600px;
+  height: 600px;
+
+  
+}
